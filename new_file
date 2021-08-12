@@ -1,0 +1,11 @@
+#inlcude <stdio.h>
+
+int main()
+{
+  int ch;
+  if(getchar(ch)!=EOF)
+  {
+     putchar(ch);
+  }
+  return 0;
+ } 
